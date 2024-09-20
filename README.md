@@ -15,6 +15,7 @@ _Coursework: Enterprise Data Management, Big Data Science and Analytics Platform
 **Fraud Detection in Credit Cards**
 • Built a predictive model to detect fraudulent credit card transactions using logistic regression. • Achieved an accuracy of 94% on the training dataset and 93% on the testing dataset.
 • Implemented advanced data analysis using NumPy and Pandas.
+
 **Microsoft Stock Price Prediction Model**
 • Designed and implemented a Recurrent Neural Network (RNN) for time series forecasting of Microsoft stock prices.
 • Achieved a Mean Absolute Error (MAE) of 0.0791 and optimized the model for real-time prediction with a 35ms/step
