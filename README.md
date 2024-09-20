@@ -5,7 +5,7 @@ Masters in Big Data Analytics, San Diego State University
 _Coursework: Enterprise Data Management, Big Data Science and Analytics Platforms, GIS Programming with Python, Machine Learning Engineering, Database Theory and Implementation, Data Visualization_
 
 ### Technical Skills
-• Languages: Python, R, C++, SQL, HTML, CSS, JavaScript 
+• Languages: Python, R, C++, SQL, HTML, CSS, JavaScript/n
 • Database: MySQL, MongoDB, PostgreSQL, NoSQL
 • Frameworks/Libraries: Keras, PyTorch
 • Cloud Data Warehousing: Snowflake, Redshift
